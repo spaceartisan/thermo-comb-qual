@@ -57,3 +57,25 @@
 
 ??? example "What is needed to specify a substance"
     Need m-1 moles fraction $\chi_i$
+
+??? example "Can you create an intensive from an extensive property"
+    Yes. $=>E(m,I_1,I_2)=mg(I_1,I_2)=>\frac{E}{m}=g(I_1,I_2)$
+
+??? example "What are some specific properties"
+    General form $\frac{E}{m}$. Also $h=\frac{H}{m}$, $v=\frac{V}{m}$. Additionally you can create a volume specific property $\frac{H}{V}$.
+
+??? example "In the classical thermodynamics context, what is temperature"
+    A measure that quantifies the "hotness" of a system. Not an absolute reference, but can agree on relative "hotness".
+
+??? example "What must be true for temperature to be defined"
+    Body is in thermal equilibrium.
+
+??? example "What is the PG (Perfect Gas) temperature scale"
+    A system filled in a constant volume gas, can show that T is monotonically increasing as a function fo the gas state.
+
+??? example "What is the difference between $\delta$ and d. (As in $\delta w$ vs $du$)"
+    The value obtained through $\delta$ is path dependent, where as the $d$ is state dependent and will return the same value no matter the path.
+
+??? example "Describe $dU=\delta Q+\delta W$"
+    The change in internal energy (which is a state property) can be equation to the path dependent values of heat transfer and work.
+

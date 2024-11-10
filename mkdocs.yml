@@ -60,6 +60,11 @@ markdown_extensions:
           format: !!python/name:mkdocs_charts_plugin.fences.fence_vegalite
   - pymdownx.arithmatex:
       generic: true
+  - pymdownx.tabbed:
+      alternate_style: true
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
 
 extra_javascript:
   - javascripts/mathjax.js
@@ -71,3 +76,4 @@ extra_javascript:
 
 # https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/
 # windmill-dark
+# https://vega.github.io/vega-lite/

@@ -83,21 +83,127 @@
     Internal energy. Extensive property. Sum of the rotational, vibrational, and electric energy.
 
 ??? example "Draw a cyclic process and what are it's associated equations"
-    ```vegalite
-    {
-    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "description": "A simple bar chart with embedded data.",
-    "data": {
-        "values": [
-        {"a": "A", "b": 28}, {"a": "B", "b": 55}, {"a": "C", "b": 43},
-        {"a": "D", "b": 91}, {"a": "E", "b": 81}, {"a": "F", "b": 53},
-        {"a": "G", "b": 19}, {"a": "H", "b": 87}, {"a": "I", "b": 52}
-        ]
-    },
-    "mark": "bar",
-    "encoding": {
-        "x": {"field": "a", "type": "nominal", "axis": {"labelAngle": 0}},
-        "y": {"field": "b", "type": "quantitative"}
-    }
-    }
-    ```
+    === "Equations"
+        \begin{equation*}
+            \begin{split}
+                \oint dU = U_1 - U_1 &= \oint \delta Q + \oint \delta W = Q + W\\
+                Q&=-W\\
+            \end{split}
+        \end{equation*}
+    === "Figure"
+        <figure markdown="span">
+            ![Image title](../python/images/cyclic_process.png){ width="400" }
+        </figure>
+
+
+??? example "What is the first law but for fluid work only"
+    $$\delta W=-pdV \xrightarrow{} dU=Q_{12}-pdV$$
+
+??? example "What is heat of reaction"
+    $\Delta H_R^o$ the value of the amount of energy per mole either related or produced in a reaction.
+
+??? example "In the context of classical thermo, what is entropy"
+    A property of a system which differentiates what is impossible in relation to reversibility. An extensive property.
+
+??? example "What is a conservative force"
+    A force whose total expenditure of work is independent of direction. Example is fluid compression. A non-conservative force is friction.
+
+??? example "In a classical equilibirum context, what is temperature"
+    \begin{equation*}
+        \begin{split}
+            \text{Temperature is the value found}&\text{ such that entropy (S) is maximized.}\\
+            T&=\frac{1}{\left(\frac{\partial S}{\partial V}\right)_U}
+        \end{split}
+    \end{equation*}
+
+??? example "What is the thermodynamic definition of pressure"
+    $$P=T\left(\frac{\partial S}{\partial V}\right)_U$$
+
+??? example "Within the context of classical thermodynamics, when is temperature and pressure valid"
+    TD Equilibrium
+
+??? example "What is the Gibbs Equation"
+    \begin{equation*}
+        \begin{split}
+            dS&=\left(\frac{\partial S}{\partial U}\right)_VdU+\left(\frac{\partial S}{\partial V}\right)_UdV\\
+            dS&=\frac{1}{T}dU+\frac{P}{T}dV
+        \end{split}
+    \end{equation*}
+
+??? example "How can you transfer entropy from a closed system"
+    Heat transfer
+
+??? example "How is entropy produced"
+    When there is heat transfer across a finite temperature difference.
+
+??? example "When is an isentropic system reversible"
+    When it is also adiabatic or there is no heat transfer.
+
+??? example "For a control mass, what is the second law"
+    $$dS_{CM}=\frac{\partial Q}{T}+\partial P_s$$
+
+??? example "What is the maximum work attainable from a system"
+    When $\delta\mathcal{P}_s=0$
+
+??? example "What is (Carnot) efficiency"
+    $$\eta=\frac{W_{out}}{Q_{in}}\text{, }\eta_{rev}=\frac{W_{max}}{Q_1}=1-\frac{T_2}{T_1}$$
+
+??? example "What is the thermodyanimc definition of chemical potential"
+    $$\mu=-T\left(\frac{\partial S}{\partial n_i}\right)_{U,V,n_{i\neq j}}$$
+
+??? example "What is the difference between phase and chemical equilibirum"
+    Two system is considered in **phase equilibirum** if $\mu_{liq}=\mu_{ice}$. For **chemical equilibirum** if $N_2+O_2\xrightarrow{}2NO$ then $\mu_{N_2}+\mu_{O_2}=2\mu_{NO}$
+
+??? example "What is the relationship of $\mu$ to G,H, and F"
+    $$\mu_i=\left(\frac{\partial G}{\partial n_i}\right)_{T,P}=\left(\frac{\partial H}{\partial n_i}\right)_{S,P}=\left(\frac{\partial F}{\partial n_i}\right)_{T,V}$$
+
+??? example "What is the requirement for $dS\geq 0$, $dF\leq 0$, $dG\leq 0$"
+    For dS, U and V are const. For F, T and V are const. For G, T and P. For all $\Sigma\mu_i dn_i\leq 0$
+
+??? example "What are the identifies for H, G, and F"
+    $H=U+PV$, $G=H-TS$, $F=U-TS$
+
+??? example "van't Hoff Relation"
+    $$\left(\frac{\partial G/T}{\partial T}\right)_{P,n_i}=-\frac{H}{T^2}$$
+
+??? example "Relate $C_v$ and $C_p$ to U and H"
+    \begin{equation*}
+        \begin{split}
+            dU&=\left(\frac{\partial U}{\partial T}\right)_V dT+\left(\frac{\partial U}{\partial V}\right)_T dV \\
+            dH&=\left(\frac{\partial H}{\partial T}\right)_P dT+\left(\frac{\partial H}{\partial P}\right)_T dP \\
+        \end{split}
+    \end{equation*}
+
+??? example "Relate $C_v$ and $C_p$ to Q"
+    \begin{equation*}
+        \begin{split}
+            &\text{Starting with }dU=\delta Q-pdV\text{ For $C_v$ meaning constant volume and using }dU=C_vdT\text{, we find}\\
+            &C_v=\frac{\partial Q}{dT}\\
+            &\text{Similarly for $C_p$ ~ }dH=C_pdT \\
+            &C_p=\frac{\partial Q}{dT}\\
+        \end{split}
+    \end{equation*}
+
+??? example "Forms for isobaric, isothermal, and isentropic compressibility"
+    \begin{equation*}
+        \begin{split}
+            \alpha=\frac{1}{V}\left(\frac{\partial V}{\partial T}\right)_P\\
+            \kappa=-\frac{1}{V}\left(\frac{\partial V}{\partial P}\right)_T\\
+            \beta=-\frac{1}{V}\left(\frac{\partial V}{\partial P}\right)_S
+        \end{split}
+    \end{equation*}
+
+??? example "For a perfect gas, $C_p-C_v=R$. What is it for a real gas"
+    $$C_p-C_v=T\frac{\alpha^2 V}{\kappa}$$
+
+??? example "For a perfect gas, $C_p/C_v=\gamma$. What is it for a real gas"
+    $$\frac{C_p}{C_v}=\frac{\kappa}{\beta}$$
+
+??? example "Entropic state relation"
+    \begin{equation*}
+        \begin{split}
+            dS&=\left(\frac{\partial S}{\partial T}\right)_P dT+\left(\frac{\partial S}{\partial P}\right)_T dP\\
+            dS&=C_P dT\frac{dT}{T}-\alpha VdP\\
+            dS&=C_V dT\frac{dT}{T}-\frac{\alpha}{\kappa}dP
+        \end{split}
+    \end{equation*}

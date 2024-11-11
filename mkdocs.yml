@@ -72,6 +72,10 @@ extra_javascript:
   - https://cdn.jsdelivr.net/npm/vega@5
   - https://cdn.jsdelivr.net/npm/vega-lite@5
   - https://cdn.jsdelivr.net/npm/vega-embed@6
+  - javascripts/flashcards.js
+
+extra_css:
+  - css/flashcards.css  # If you have a custom CSS file for styling
 
 
 # https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/

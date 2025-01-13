@@ -45,7 +45,7 @@ If we include energy, we get the **Rankine-Hugoniot Relation**
 q=\frac{\gamma}{\gamma-1}\left(\frac{P_2}{\rho_2}-\frac{P_1}{\rho_1}\right)-\frac{1}{2}(P_2-P_1)\left(\frac{1}{\rho_1}+\frac{1}{\rho_2}\right)
 \]
 
-![Poopy](images\detdef.png){ style="float: right; width: 400px;" }
+![Poopy](https://raw.githubusercontent.com/spaceartisan/thermo-comb-qual/refs/heads/master/docs/comb/images\detdef.png){ style="float: right; width: 400px;" }
 
 The red line, or $q$ is the Rankine-Hugoniot relation. If the flow is non-reacting, then this would imply that $q=0$. In this, case this relation would cross $1/\rho_1$, $P_1$.
 

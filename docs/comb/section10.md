@@ -8,7 +8,7 @@ The existance of eddies means we need to consider how they affect our flames. We
 - Reaction Sheet Regime $Da>>1$
 
 <figure markdown="span" style="margin: 0 auto; display: table; border: 2px solid rgb(68, 138, 255); padding: 5px; border-radius: 5px;">
-    ![Poopy](images\borg.png)
+    ![Poopy](https://raw.githubusercontent.com/spaceartisan/thermo-comb-qual/refs/heads/master/docs/comb/images\borg.png)
 </figure>
 
 Due to the influence of turbulence on our flames, we need to estimate the Turbulent Flame Speed. Since the motion is chaotic, we will focus on the average propagation speed $S_T$

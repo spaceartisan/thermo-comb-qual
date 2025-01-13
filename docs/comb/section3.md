@@ -78,7 +78,7 @@ The well stirred or perfectly stirred reactor, is effectively the open version o
 
 A residence characteristic time can be defined $\tau_{res}=\frac{\rho V}{\dot{m}_{in}}$
 
-![Poopy](images\scurve.png){ style="float: right; width: 400px;" }
+![Poopy](https://raw.githubusercontent.com/spaceartisan/thermo-comb-qual/refs/heads/master/docs/comb/images\scurve.png){ style="float: right; width: 400px;" }
 
 In analyzing the relationship between normalized Da and T. We are able to get the "S-Curve". Upon inspect, as the activation energy increases, the later the rapid rise in temperature occurs. Once we get to larger activation energies, an observed bend in the curve emerges. Because of this, multiple solutions emergy for a given Da'. 
 

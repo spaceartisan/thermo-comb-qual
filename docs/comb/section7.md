@@ -4,7 +4,7 @@ Laminar flamespeed cause from the deflagration weak solutions. If we are sitting
 
 - Laminar burning flux: $\dot{m}^{''}=\rho1 S_u^o=\rho_2 S_b^o$
 
-![Poopy](images\lamFStr.png){ width=400 } 
+![Poopy](https://raw.githubusercontent.com/spaceartisan/thermo-comb-qual/refs/heads/master/docs/comb/images\lamFStr.png){ width=400 } 
 
 The equation set is the same as before from the Rayleight-Hugoniot. But now add diffusion effects
 
@@ -30,7 +30,7 @@ Using Shvab-Zeldovich forms we use (Recall Le=1 for SZ)
 - $\eta(x=-\infty)=\eta_{unburned}$, $\eta(x=+\infty)=\eta_{burned}$
 - $\left(\frac{d\eta}{dx}\right)_{\pm}=0$
 
-![Poopy](images\fzone.png){ style="float: right; width: 400px;" }
+![Poopy](https://raw.githubusercontent.com/spaceartisan/thermo-comb-qual/refs/heads/master/docs/comb/images\fzone.png){ style="float: right; width: 400px;" }
 
 Flame Zones, divide the solution into two distinct regions
 - If $T<T_i$, $RR=0$
@@ -52,7 +52,7 @@ Reaction Zone - Diffusive flux >> Convective flux
 S_L^o=\sqrt{\frac{2}{\rho_1 Y_{f,1}}\bar{\alpha}\overline{RR}}
 \]
 
-![Poopy](images\ezgif.com-crop.gif)
+![Poopy](https://raw.githubusercontent.com/spaceartisan/thermo-comb-qual/refs/heads/master/docs/comb/images\ezgif.com-crop.gif)
 
 # Flame Thickness and Flame Speed
 
@@ -124,17 +124,17 @@ Flame Thickness scaling
 <div style="display: flex; gap: 10px;">
 
 <figure style="margin: 0; border: 2px solid rgb(68, 138, 255); padding: 5px; border-radius: 5px;">
-  <img src="..\images\h2_1.png" alt="Image title" width="433">
+  <img src="https://raw.githubusercontent.com/spaceartisan/thermo-comb-qual/refs/heads/master/docs/comb/images\h2_1.png" alt="Image title" width="433">
   <figcaption>Major Species</figcaption>
 </figure>
 
 <figure style="margin: 0; border: 2px solid rgb(68, 138, 255); padding: 5px; border-radius: 5px;">
-  <img src="..\images\h2_2.png" alt="Image title" width="413">
+  <img src="https://raw.githubusercontent.com/spaceartisan/thermo-comb-qual/refs/heads/master/docs/comb/images\h2_2.png" alt="Image title" width="413">
   <figcaption>Radical Species</figcaption>
 </figure>
 
 <figure style="margin: 0; border: 2px solid rgb(68, 138, 255); padding: 5px; border-radius: 5px;">
-  <img src="..\images\h2_3.png" alt="Image title" width="433">
+  <img src="https://raw.githubusercontent.com/spaceartisan/thermo-comb-qual/refs/heads/master/docs/comb/images\h2_3.png" alt="Image title" width="433">
   <figcaption>Heat Release</figcaption>
 </figure>
 
@@ -148,12 +148,12 @@ Flame Thickness scaling
 <div style="display: flex; gap: 10px;">
 
 <figure style="margin: 0; border: 2px solid rgb(68, 138, 255); padding: 5px; border-radius: 5px;">
-  <img src="..\images\ch4_1.png" alt="Image title" width="305">
+  <img src="https://raw.githubusercontent.com/spaceartisan/thermo-comb-qual/refs/heads/master/docs/comb/images\ch4_1.png" alt="Image title" width="305">
   <figcaption>Major Species</figcaption>
 </figure>
 
 <figure style="margin: 0; border: 2px solid rgb(68, 138, 255); padding: 5px; border-radius: 5px;">
-  <img src="..\images\ch4_2.png" alt="Image title" width="300">
+  <img src="https://raw.githubusercontent.com/spaceartisan/thermo-comb-qual/refs/heads/master/docs/comb/images\ch4_2.png" alt="Image title" width="300">
   <figcaption>Radical Species</figcaption>
 </figure>
 
@@ -171,12 +171,12 @@ Stretch causes a misalignment between convective and diffusive fluxes near the f
 <div style="display: flex; gap: 10px;">
 
 <figure style="margin: 0; border: 2px solid rgb(68, 138, 255); padding: 5px; border-radius: 5px;">
-  <img src="..\images\negstr.png" alt="Image title" width="230">
+  <img src="https://raw.githubusercontent.com/spaceartisan/thermo-comb-qual/refs/heads/master/docs/comb/images\negstr.png" alt="Image title" width="230">
   <figcaption>Negative Stretch</figcaption>
 </figure>
 
 <figure style="margin: 0; border: 2px solid rgb(68, 138, 255); padding: 5px; border-radius: 5px;">
-  <img src="..\images\posstr.png" alt="Image title" width="300">
+  <img src="https://raw.githubusercontent.com/spaceartisan/thermo-comb-qual/refs/heads/master/docs/comb/images\posstr.png" alt="Image title" width="300">
   <figcaption>Positive Stretch</figcaption>
 </figure>
 
@@ -198,12 +198,12 @@ If $Le=1$ there is negligible stretch effects.
 <div style="display: flex; gap: 10px;">
 
 <figure style="margin: 0; border: 2px solid rgb(68, 138, 255); padding: 5px; border-radius: 5px;">
-  <img src="..\images\buncj4.png" alt="Image title" width="294">
+  <img src="https://raw.githubusercontent.com/spaceartisan/thermo-comb-qual/refs/heads/master/docs/comb/images\buncj4.png" alt="Image title" width="294">
   <figcaption>Methane is lighter than air. Rich flames will enhance the tip.</figcaption>
 </figure>
 
 <figure style="margin: 0; border: 2px solid rgb(68, 138, 255); padding: 5px; border-radius: 5px;">
-  <img src="..\images\bunc3h8.png" alt="Image title" width="280">
+  <img src="https://raw.githubusercontent.com/spaceartisan/thermo-comb-qual/refs/heads/master/docs/comb/images\bunc3h8.png" alt="Image title" width="280">
   <figcaption>Propane is heavier than air. Lean flames will enhance the tip.</figcaption>
 </figure>
 
@@ -246,11 +246,11 @@ Flame propagates only within a range of $\phi$
 <div style="display: flex; gap: 10px;">
 
 <figure style="margin: 0; border: 2px solid rgb(68, 138, 255); padding: 5px; border-radius: 5px;">
-  <img src="..\images\flimit.png" alt="Image title" width="294">
+  <img src="https://raw.githubusercontent.com/spaceartisan/thermo-comb-qual/refs/heads/master/docs/comb/images\flimit.png" alt="Image title" width="294">
 </figure>
 
 <figure style="margin: 0; border: 2px solid rgb(68, 138, 255); padding: 5px; border-radius: 5px;">
-  <img src="..\images\flimit2.png" alt="Image title" width="280">
+  <img src="https://raw.githubusercontent.com/spaceartisan/thermo-comb-qual/refs/heads/master/docs/comb/images\flimit2.png" alt="Image title" width="280">
 </figure>
 
 </div>
@@ -261,12 +261,12 @@ Flame propagates only within a range of $\phi$
 <div style="display: flex; gap: 10px;">
 
 <figure style="margin: 0; border: 2px solid rgb(68, 138, 255); padding: 5px; border-radius: 5px;">
-  <img src="..\images\thermalp.png" alt="Image title" width="294">
+  <img src="https://raw.githubusercontent.com/spaceartisan/thermo-comb-qual/refs/heads/master/docs/comb/images\thermalp.png" alt="Image title" width="294">
   <figcaption>Thermal conduction always flattens flame, perturbations decay</figcaption>
 </figure>
 
 <figure style="margin: 0; border: 2px solid rgb(68, 138, 255); padding: 5px; border-radius: 5px;">
-  <img src="..\images\reactdp.png" alt="Image title" width="329">
+  <img src="https://raw.githubusercontent.com/spaceartisan/thermo-comb-qual/refs/heads/master/docs/comb/images\reactdp.png" alt="Image title" width="329">
   <figcaption>Deficient reactant will diffuse and grow perturbations.</figcaption>
 </figure>
 
@@ -290,17 +290,17 @@ Where does a flame anchor? Requires $u_e=S_L$ at some point. Otherwise issues oc
 <div style="display: flex; gap: 10px;">
 
 <figure style="margin: 0; border: 2px solid rgb(68, 138, 255); padding: 5px; border-radius: 5px;">
-  <img src="..\images\fstb1.PNG" alt="Image title" width="305">
+  <img src="https://raw.githubusercontent.com/spaceartisan/thermo-comb-qual/refs/heads/master/docs/comb/images\fstb1.PNG" alt="Image title" width="305">
   <figcaption>Simple model</figcaption>
 </figure>
 
 <figure style="margin: 0; border: 2px solid rgb(68, 138, 255); padding: 5px; border-radius: 5px;">
-  <img src="..\images\fstb2.PNG" alt="Image title" width="350">
+  <img src="https://raw.githubusercontent.com/spaceartisan/thermo-comb-qual/refs/heads/master/docs/comb/images\fstb2.PNG" alt="Image title" width="350">
   <figcaption>Flashback</figcaption>
 </figure>
 
 <figure style="margin: 0; border: 2px solid rgb(68, 138, 255); padding: 5px; border-radius: 5px;">
-  <img src="..\images\fstb3.PNG" alt="Image title" width="305">
+  <img src="https://raw.githubusercontent.com/spaceartisan/thermo-comb-qual/refs/heads/master/docs/comb/images\fstb3.PNG" alt="Image title" width="305">
   <figcaption>Blowoff</figcaption>
 </figure>
 

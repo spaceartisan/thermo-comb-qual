@@ -2,7 +2,7 @@
 
 What is the required size of the kernel to maintain the flame?
 
-![Poopy](images\igkernel.PNG){ align=right }
+![Poopy](https://raw.githubusercontent.com/spaceartisan/thermo-comb-qual/refs/heads/master/docs/comb/images\igkernel.PNG){ align=right }
 
 \begin{equation*}
     \begin{split}
@@ -46,7 +46,7 @@ E_{min}\propto P\delta^3\propto P^{(2-3n)/2}
 # Thermal Ignition
 
 <figure markdown="span" style="margin: 0 auto; display: table; border: 2px solid rgb(68, 138, 255); padding: 5px; border-radius: 5px;">
-  ![Image title](images\thermigni.PNG){ width="600" }
+  ![Image title](https://raw.githubusercontent.com/spaceartisan/thermo-comb-qual/refs/heads/master/docs/comb/images\thermigni.PNG){ width="600" }
   <figcaption>Only above flash point, it is possible to ignite gas phase fuel/air mixture</figcaption>
 </figure>
 

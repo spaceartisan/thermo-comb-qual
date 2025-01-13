@@ -4,7 +4,7 @@ These type of flames feature fast kinetics, such that $Da\to \infty$. This impli
 - These flames are also referred to as diffusion flames
 
 <figure markdown="span" style="float: right; display: table; border: 2px solid rgb(68, 138, 255); padding: 5px; border-radius: 5px;">
-    ![Poopy](images\diffFlame.PNG){ style="float: right; width: 400px;" }
+    ![Poopy](https://raw.githubusercontent.com/spaceartisan/thermo-comb-qual/refs/heads/master/docs/comb/images\diffFlame.PNG){ style="float: right; width: 400px;" }
 </figure>
 
 In the accompany diagram, we have fuel on the left hand side and oxidizier on the right hand side. Unlike in a premixed laminar flame which chases the fuel/air mixture, in a diffusion flame the fuel and oxidizer flow into the "flame". This implies that the flame has no flame speed or at least in the same sense as before.
@@ -14,7 +14,7 @@ A consequence of this configuration is that at the flame, both the fuel and oxid
 In the image below, in association with our approximation, the flame will be located at the stoichiometric surface.
 
 <figure markdown="span" style="margin: 0 auto; display: table; border: 2px solid rgb(68, 138, 255); padding: 5px; border-radius: 5px;">
-    ![Poopy](images\fsapprox.PNG)
+    ![Poopy](https://raw.githubusercontent.com/spaceartisan/thermo-comb-qual/refs/heads/master/docs/comb/images\fsapprox.PNG)
 </figure>
 
 !!! note "Helpful"
@@ -31,7 +31,7 @@ Assume quiescent surroundings, steady, nonreacting, laminar, axisymmetric flow
 | Species | $u_x\frac{\partial Y_F}{\partial x}+u_r\frac{\partial Y_F}{\partial x}=\frac{D}{r}\frac{\partial}{\partial r}\left(r\frac{\partial Y_F}{\partial r}\right)$ |
 
 <figure markdown="span" style="margin: 0 auto; display: table; border: 2px solid rgb(68, 138, 255); padding: 5px; border-radius: 5px;">
-    ![Poopy](images\jmix_1.PNG)
+    ![Poopy](https://raw.githubusercontent.com/spaceartisan/thermo-comb-qual/refs/heads/master/docs/comb/images\jmix_1.PNG)
 </figure>
 
 For the boundary conditions
@@ -58,7 +58,7 @@ Entrainment Rate
 Same as jet mixing, except now we have a source and sink term in the species and energy conservation equation. As describe in the first section, the fuel and oxidizer will diffuse toward the flame sheet with the products diffusing away. The flame tip will be effect by final fuel burnout and buoyancy.
 
 <figure markdown="span" style="margin: 0 auto; display: table; border: 2px solid rgb(68, 138, 255); padding: 5px; border-radius: 5px;">
-    ![Poopy](images\jflam.png)
+    ![Poopy](https://raw.githubusercontent.com/spaceartisan/thermo-comb-qual/refs/heads/master/docs/comb/images\jflam.png)
 </figure>
 
 # Conserved Scalars
@@ -112,7 +112,7 @@ Just like with the Shvab-Zeldovich simplification, we have the energy equation a
 For our assumptions, which include the flame sheet approximation, this would imply that the flame would sit at $f=f_{stoich}$ ($Y_P=1$)
 
 <figure markdown="span" style="margin: 0 auto; display: table; border: 2px solid rgb(68, 138, 255); padding: 5px; border-radius: 5px;">
-    ![Poopy](images\flength.PNG)
+    ![Poopy](https://raw.githubusercontent.com/spaceartisan/thermo-comb-qual/refs/heads/master/docs/comb/images\flength.PNG)
 </figure>
 
 With our discovery, we can deduce that the length of the flame will increase if there is not enough oxidizer. Basically, the fuel needs to be diluted to reach stoichiometric proportions. Conversely, if there is less fuel, the flame will get smaller.
@@ -146,7 +146,7 @@ In the flame sheet approximation, we assumed single step fast chemistry. Neither
 # Soot
 
 <figure markdown="span" style="float: right; display: table; border: 2px solid rgb(68, 138, 255); padding: 5px; border-radius: 5px;">
-    ![Poopy](images\soot.PNG){ style="float: right; width: 250px;" }
+    ![Poopy](https://raw.githubusercontent.com/spaceartisan/thermo-comb-qual/refs/heads/master/docs/comb/images\soot.PNG){ style="float: right; width: 250px;" }
 </figure>
 
 Mostly graphitic carbon. Primarily forms due to "heating" of HC fuel species in oxygen deficient regions. Soot is also oxidized in regions of high temperature, however there is enough oxidizer. Most soot after formed is destroyed; However, soot can remain if the rich regions stays unmixed, or the gases are cooled before a reaction can occur.
@@ -253,7 +253,7 @@ d_s^2(t)=d_s^2(0)-Kt
 This shows a relationship between the size of the droplet and the time to evaporate.
 
 <figure markdown="span" style="margin: 0 auto; display: table; border: 2px solid rgb(68, 138, 255); padding: 5px; border-radius: 5px;">
-    ![Poopy](images\d2law.PNG)
+    ![Poopy](https://raw.githubusercontent.com/spaceartisan/thermo-comb-qual/refs/heads/master/docs/comb/images\d2law.PNG)
 </figure>
 
 ??? question "How does K impact evaporation rate?"
@@ -264,7 +264,7 @@ This shows a relationship between the size of the droplet and the time to evapor
 # Droplet Burning
 
 <figure markdown="span" style="float: right; display: table; border: 2px solid rgb(68, 138, 255); padding: 5px; border-radius: 5px;">
-    ![Poopy](images\dburn.PNG){ style="float: right; width: 250px;" }
+    ![Poopy](https://raw.githubusercontent.com/spaceartisan/thermo-comb-qual/refs/heads/master/docs/comb/images\dburn.PNG){ style="float: right; width: 250px;" }
 </figure>
 
 Now the droplet is able to burn. We can solve this in a way similar to the jet flame.
@@ -333,7 +333,7 @@ Just like in the jet flame case, we want to know where the flame is located for 
 # Ignition Delay
 
 <figure markdown="span" style="float: right; display: table; border: 2px solid rgb(68, 138, 255); padding: 5px; border-radius: 5px;">
-    ![Poopy](images\igdel.PNG){ style="float: right; width: 250px;" }
+    ![Poopy](https://raw.githubusercontent.com/spaceartisan/thermo-comb-qual/refs/heads/master/docs/comb/images\igdel.PNG){ style="float: right; width: 250px;" }
 </figure>
 
 As we have seen, droplets wont begin to burn immediately. Evaporation will precede burning. As we have seen previously, autoignition must occur before burning occurs (excluding forced ignition). If induction time is tool long, the droplet will evaporate and may not be able to burn. Can decrease induction time if we increase temperature.

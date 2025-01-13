@@ -146,12 +146,12 @@ Then you can estimate the mole fractions with your minor species (e.g.) by using
 
 <div style="display: flex; gap: 10px;">
 
-<figure style="margin: 0; border: 2px solid black; padding: 5px; border-radius: 5px;">
+<figure style="margin: 0; border: 2px solid rgb(68, 138, 255); padding: 5px; border-radius: 5px;">
   <img src="..\images\propAir.png" alt="Image title" width="433">
   <figcaption>Major Species</figcaption>
 </figure>
 
-<figure style="margin: 0; border: 2px solid black; padding: 5px; border-radius: 5px;">
+<figure style="margin: 0; border: 2px solid rgb(68, 138, 255); padding: 5px; border-radius: 5px;">
   <img src="..\images\propAir2.png" alt="Image title" width="350">
   <figcaption>Minor Species</figcaption>
 </figure>

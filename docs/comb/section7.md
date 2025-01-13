@@ -123,17 +123,17 @@ Flame Thickness scaling
 
 <div style="display: flex; gap: 10px;">
 
-<figure style="margin: 0; border: 2px solid black; padding: 5px; border-radius: 5px;">
+<figure style="margin: 0; border: 2px solid rgb(68, 138, 255); padding: 5px; border-radius: 5px;">
   <img src="..\images\h2_1.png" alt="Image title" width="433">
   <figcaption>Major Species</figcaption>
 </figure>
 
-<figure style="margin: 0; border: 2px solid black; padding: 5px; border-radius: 5px;">
+<figure style="margin: 0; border: 2px solid rgb(68, 138, 255); padding: 5px; border-radius: 5px;">
   <img src="..\images\h2_2.png" alt="Image title" width="413">
   <figcaption>Radical Species</figcaption>
 </figure>
 
-<figure style="margin: 0; border: 2px solid black; padding: 5px; border-radius: 5px;">
+<figure style="margin: 0; border: 2px solid rgb(68, 138, 255); padding: 5px; border-radius: 5px;">
   <img src="..\images\h2_3.png" alt="Image title" width="433">
   <figcaption>Heat Release</figcaption>
 </figure>
@@ -147,12 +147,12 @@ Flame Thickness scaling
 
 <div style="display: flex; gap: 10px;">
 
-<figure style="margin: 0; border: 2px solid black; padding: 5px; border-radius: 5px;">
+<figure style="margin: 0; border: 2px solid rgb(68, 138, 255); padding: 5px; border-radius: 5px;">
   <img src="..\images\ch4_1.png" alt="Image title" width="305">
   <figcaption>Major Species</figcaption>
 </figure>
 
-<figure style="margin: 0; border: 2px solid black; padding: 5px; border-radius: 5px;">
+<figure style="margin: 0; border: 2px solid rgb(68, 138, 255); padding: 5px; border-radius: 5px;">
   <img src="..\images\ch4_2.png" alt="Image title" width="300">
   <figcaption>Radical Species</figcaption>
 </figure>
@@ -170,12 +170,12 @@ Stretch causes a misalignment between convective and diffusive fluxes near the f
 
 <div style="display: flex; gap: 10px;">
 
-<figure style="margin: 0; border: 2px solid black; padding: 5px; border-radius: 5px;">
+<figure style="margin: 0; border: 2px solid rgb(68, 138, 255); padding: 5px; border-radius: 5px;">
   <img src="..\images\negstr.png" alt="Image title" width="230">
   <figcaption>Negative Stretch</figcaption>
 </figure>
 
-<figure style="margin: 0; border: 2px solid black; padding: 5px; border-radius: 5px;">
+<figure style="margin: 0; border: 2px solid rgb(68, 138, 255); padding: 5px; border-radius: 5px;">
   <img src="..\images\posstr.png" alt="Image title" width="300">
   <figcaption>Positive Stretch</figcaption>
 </figure>
@@ -197,12 +197,12 @@ If $Le=1$ there is negligible stretch effects.
 
 <div style="display: flex; gap: 10px;">
 
-<figure style="margin: 0; border: 2px solid black; padding: 5px; border-radius: 5px;">
+<figure style="margin: 0; border: 2px solid rgb(68, 138, 255); padding: 5px; border-radius: 5px;">
   <img src="..\images\buncj4.png" alt="Image title" width="294">
   <figcaption>Methane is lighter than air. Rich flames will enhance the tip.</figcaption>
 </figure>
 
-<figure style="margin: 0; border: 2px solid black; padding: 5px; border-radius: 5px;">
+<figure style="margin: 0; border: 2px solid rgb(68, 138, 255); padding: 5px; border-radius: 5px;">
   <img src="..\images\bunc3h8.png" alt="Image title" width="280">
   <figcaption>Propane is heavier than air. Lean flames will enhance the tip.</figcaption>
 </figure>
@@ -245,11 +245,11 @@ Flame propagates only within a range of $\phi$
 
 <div style="display: flex; gap: 10px;">
 
-<figure style="margin: 0; border: 2px solid black; padding: 5px; border-radius: 5px;">
+<figure style="margin: 0; border: 2px solid rgb(68, 138, 255); padding: 5px; border-radius: 5px;">
   <img src="..\images\flimit.png" alt="Image title" width="294">
 </figure>
 
-<figure style="margin: 0; border: 2px solid black; padding: 5px; border-radius: 5px;">
+<figure style="margin: 0; border: 2px solid rgb(68, 138, 255); padding: 5px; border-radius: 5px;">
   <img src="..\images\flimit2.png" alt="Image title" width="280">
 </figure>
 
@@ -260,12 +260,12 @@ Flame propagates only within a range of $\phi$
 
 <div style="display: flex; gap: 10px;">
 
-<figure style="margin: 0; border: 2px solid black; padding: 5px; border-radius: 5px;">
+<figure style="margin: 0; border: 2px solid rgb(68, 138, 255); padding: 5px; border-radius: 5px;">
   <img src="..\images\thermalp.png" alt="Image title" width="294">
   <figcaption>Thermal conduction always flattens flame, perturbations decay</figcaption>
 </figure>
 
-<figure style="margin: 0; border: 2px solid black; padding: 5px; border-radius: 5px;">
+<figure style="margin: 0; border: 2px solid rgb(68, 138, 255); padding: 5px; border-radius: 5px;">
   <img src="..\images\reactdp.png" alt="Image title" width="329">
   <figcaption>Deficient reactant will diffuse and grow perturbations.</figcaption>
 </figure>
@@ -289,20 +289,22 @@ Where does a flame anchor? Requires $u_e=S_L$ at some point. Otherwise issues oc
 
 <div style="display: flex; gap: 10px;">
 
-<figure style="margin: 0; border: 2px solid black; padding: 5px; border-radius: 5px;">
+<figure style="margin: 0; border: 2px solid rgb(68, 138, 255); padding: 5px; border-radius: 5px;">
   <img src="..\images\fstb1.PNG" alt="Image title" width="305">
   <figcaption>Simple model</figcaption>
 </figure>
 
-<figure style="margin: 0; border: 2px solid black; padding: 5px; border-radius: 5px;">
+<figure style="margin: 0; border: 2px solid rgb(68, 138, 255); padding: 5px; border-radius: 5px;">
   <img src="..\images\fstb2.PNG" alt="Image title" width="350">
   <figcaption>Flashback</figcaption>
 </figure>
 
-<figure style="margin: 0; border: 2px solid black; padding: 5px; border-radius: 5px;">
+<figure style="margin: 0; border: 2px solid rgb(68, 138, 255); padding: 5px; border-radius: 5px;">
   <img src="..\images\fstb3.PNG" alt="Image title" width="305">
   <figcaption>Blowoff</figcaption>
 </figure>
 
 </div>
 
+# Quals Like Problems
+---

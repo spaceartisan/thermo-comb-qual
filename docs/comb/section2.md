@@ -56,7 +56,7 @@ k=k_{coll}\times P_{steric}
 
 As stated, the global reaction represent the overall resultant, however there are steps within. 
 
-![Poopy](images\tst.PNG){ style="float: right; width: 350px;" }
+![Poopy](https://raw.githubusercontent.com/spaceartisan/thermo-comb-qual/refs/heads/master/docs/comb/images\tst.PNG){ style="float: right; width: 350px;" }
 
 | Step      | Formula                          |
 | ----------- | ------------------------------------ |
@@ -147,7 +147,7 @@ For reactions to occur, there needs to be something that promotes the process. T
 
 What is the minimum set of reactions needed to explain this phenomenom? To have an explosion, production of radicals need to exceed their destruction. 
 
-![Poopy](images\h2o2.png){ style="float: right; width: 400px;" }
+![Poopy](https://raw.githubusercontent.com/spaceartisan/thermo-comb-qual/refs/heads/master/docs/comb/images\h2o2.png){ style="float: right; width: 400px;" }
 
 - For the first limit, the radical production $[H]$ is competing with its termination with the wall
 
@@ -180,7 +180,7 @@ Dry vs Wet CO Mechanism. Prescence of H containing species significantly increas
 - $H + O_2 \to OH + O$
 - $O + HC \to OH....$
 
-![Poopy](images\hc.png)
+![Poopy](https://raw.githubusercontent.com/spaceartisan/thermo-comb-qual/refs/heads/master/docs/comb/images\hc.png)
 /// caption
 Recall propane is heavier than methane
 ///

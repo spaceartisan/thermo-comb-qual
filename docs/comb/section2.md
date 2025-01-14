@@ -56,7 +56,10 @@ k=k_{coll}\times P_{steric}
 
 As stated, the global reaction represent the overall resultant, however there are steps within. 
 
-![Poopy](https://raw.githubusercontent.com/spaceartisan/thermo-comb-qual/refs/heads/master/docs/comb/images\tst.PNG){ style="float: right; width: 350px;" }
+<figure markdown="span" style="float: right; display: table; border: 2px solid rgb(68, 138, 255); padding: 5px; border-radius: 5px;">
+    ![Poopy](https://raw.githubusercontent.com/spaceartisan/thermo-comb-qual/refs/heads/master/docs/comb/images\tst.PNG){ style="float: right; width: 350px;" }
+</figure>
+
 
 | Step      | Formula                          |
 | ----------- | ------------------------------------ |
@@ -147,7 +150,10 @@ For reactions to occur, there needs to be something that promotes the process. T
 
 What is the minimum set of reactions needed to explain this phenomenom? To have an explosion, production of radicals need to exceed their destruction. 
 
-![Poopy](https://raw.githubusercontent.com/spaceartisan/thermo-comb-qual/refs/heads/master/docs/comb/images\h2o2.png){ style="float: right; width: 400px;" }
+<figure markdown="span" style="float: right; display: table; border: 2px solid rgb(68, 138, 255); padding: 5px; border-radius: 5px;">
+    ![Poopy](https://raw.githubusercontent.com/spaceartisan/thermo-comb-qual/refs/heads/master/docs/comb/images\h2o2.png){ style="float: right; width: 400px;" }
+</figure>
+
 
 - For the first limit, the radical production $[H]$ is competing with its termination with the wall
 
@@ -180,10 +186,10 @@ Dry vs Wet CO Mechanism. Prescence of H containing species significantly increas
 - $H + O_2 \to OH + O$
 - $O + HC \to OH....$
 
-![Poopy](https://raw.githubusercontent.com/spaceartisan/thermo-comb-qual/refs/heads/master/docs/comb/images\hc.png)
-/// caption
-Recall propane is heavier than methane
-///
+<figure markdown="span" style="margin: 0 auto; display: table; border: 2px solid rgb(68, 138, 255); padding: 5px; border-radius: 5px;">
+    ![Poopy](https://raw.githubusercontent.com/spaceartisan/thermo-comb-qual/refs/heads/master/docs/comb/images\hc.png)
+    <figcaption>Recall propane is heavier than methane</figcaption>
+</figure>
 
 ??? question "Why does coal burn?"
     Wood or is baked (not burnt) into charcoal. This is done with low oxygen to minimize oxidizer in the cooking process. What is left is the presence of significant amounts of carbon.

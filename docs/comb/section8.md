@@ -2,7 +2,9 @@
 
 What is the required size of the kernel to maintain the flame?
 
-![Poopy](https://raw.githubusercontent.com/spaceartisan/thermo-comb-qual/refs/heads/master/docs/comb/images\igkernel.PNG){ align=right }
+<figure markdown="span" style="float: right; display: table; border: 2px solid rgb(68, 138, 255); padding: 5px; border-radius: 5px;">
+    ![Poopy](https://raw.githubusercontent.com/spaceartisan/thermo-comb-qual/refs/heads/master/docs/comb/images\igkernel.PNG){ style="float: right; width: 250px;" }
+</figure>
 
 \begin{equation*}
     \begin{split}

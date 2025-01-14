@@ -1,6 +1,9 @@
 # ZND Detonation Structure
 
-![Poopy](https://raw.githubusercontent.com/spaceartisan/thermo-comb-qual/refs/heads/master/docs/comb/images\znd.png){ style="float: right; width: 400px;" }
+<figure markdown="span" style="float: right; display: table; border: 2px solid rgb(68, 138, 255); padding: 5px; border-radius: 5px;">
+    ![Poopy](https://raw.githubusercontent.com/spaceartisan/thermo-comb-qual/refs/heads/master/docs/comb/images\znd.png){ style="float: right; width: 400px;" }
+</figure>
+
 
 The ZND model is a leading shock followed by a reaction region. After the shock, M goes subsonic (hint violation, weak detonation).
 
@@ -20,7 +23,10 @@ Also want to determine product properties, ($P,\rho,T,u$)
 
 Add more details later, but I do prefer Turns methodology over the notes. Solution will require guess an iteration.
 
-![Poopy](https://raw.githubusercontent.com/spaceartisan/thermo-comb-qual/refs/heads/master/docs/comb/images\znd2.png)
+<figure markdown="span" style="margin: 0 auto; display: table; border: 2px solid rgb(68, 138, 255); padding: 5px; border-radius: 5px;">
+    ![Poopy](https://raw.githubusercontent.com/spaceartisan/thermo-comb-qual/refs/heads/master/docs/comb/images\znd2.png)
+</figure>
+
 
 # Quals Like Problems
 ---

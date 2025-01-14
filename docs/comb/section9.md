@@ -134,7 +134,7 @@ L_f\propto \frac{Q_e/D}{f_{stoich}}
 !!! note "Helpful"
     If we want to decrease the lenght, but maintain mass flowrate, we can use distributed nozzles.
 
-# Failure of Flame Sheet Approximatino
+# Failure of Flame Sheet Approximation
 
 In the flame sheet approximation, we assumed single step fast chemistry. Neither one of these assumptions are valid
 
@@ -161,7 +161,7 @@ In the flame, soot formation is seen mostly generated in the 40 mm region. At th
 # Droplet Evaporation
 
 <figure markdown="span" style="float: right; display: table; border: 2px solid rgb(68, 138, 255); padding: 5px; border-radius: 5px;">
-    ![Poopy](images\devap.png){ style="float: right; width: 250px;" }
+    ![Poopy](https://raw.githubusercontent.com/spaceartisan/thermo-comb-qual/refs/heads/master/docs/comb/images\devap.png){ style="float: right; width: 250px;" }
 </figure>
 
 In droplet evaporation we consider a perfectly spherical droplet, held together by surface tension, no burning but losing mass by being put in a hot environment. This is relevant since all our investigations into flames have burning which take black with gas mixtures. A liquid by the measure can't "burn". 

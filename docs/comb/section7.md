@@ -2,9 +2,12 @@
 
 Laminar flamespeed cause from the deflagration weak solutions. If we are sitting on a wave, such that our reference is tationary to everything else; we would see unburned products coming towards us at one velocity, and burned products leaving at some other velocity.
 
-- Laminar burning flux: $\dot{m}^{''}=\rho1 S_u^o=\rho_2 S_b^o$
+- Laminar burning flux: $\dot{m}^{''}=\rho_1 S_u^o=\rho_2 S_b^o$
 
-![Poopy](https://raw.githubusercontent.com/spaceartisan/thermo-comb-qual/refs/heads/master/docs/comb/images\lamFStr.png){ width=400 } 
+<figure markdown="span" style="margin: 0 auto; display: table; border: 2px solid rgb(68, 138, 255); padding: 5px; border-radius: 5px;">
+  ![Poopy](https://raw.githubusercontent.com/spaceartisan/thermo-comb-qual/refs/heads/master/docs/comb/images\lamFStr.png){ width=400 } 
+</figure>
+
 
 The equation set is the same as before from the Rayleight-Hugoniot. But now add diffusion effects
 
@@ -30,7 +33,10 @@ Using Shvab-Zeldovich forms we use (Recall Le=1 for SZ)
 - $\eta(x=-\infty)=\eta_{unburned}$, $\eta(x=+\infty)=\eta_{burned}$
 - $\left(\frac{d\eta}{dx}\right)_{\pm}=0$
 
-![Poopy](https://raw.githubusercontent.com/spaceartisan/thermo-comb-qual/refs/heads/master/docs/comb/images\fzone.png){ style="float: right; width: 400px;" }
+
+<figure markdown="span" style="float: right; display: table; border: 2px solid rgb(68, 138, 255); padding: 5px; border-radius: 5px;">
+  ![Poopy](https://raw.githubusercontent.com/spaceartisan/thermo-comb-qual/refs/heads/master/docs/comb/images\fzone.png){ style="float: right; width: 400px;" }
+</figure>
 
 Flame Zones, divide the solution into two distinct regions
 - If $T<T_i$, $RR=0$
@@ -52,7 +58,10 @@ Reaction Zone - Diffusive flux >> Convective flux
 S_L^o=\sqrt{\frac{2}{\rho_1 Y_{f,1}}\bar{\alpha}\overline{RR}}
 \]
 
-![Poopy](https://raw.githubusercontent.com/spaceartisan/thermo-comb-qual/refs/heads/master/docs/comb/images\ezgif.com-crop.gif)
+<figure markdown="span" style="margin: 0 auto; display: table; border: 2px solid rgb(68, 138, 255); padding: 5px; border-radius: 5px;">
+  ![Poopy](https://raw.githubusercontent.com/spaceartisan/thermo-comb-qual/refs/heads/master/docs/comb/images\ezgif.com-crop.gif)
+</figure>
+
 
 # Flame Thickness and Flame Speed
 

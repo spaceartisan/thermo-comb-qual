@@ -13,8 +13,8 @@ The intent of this guide is aggregate all the components necessary to help a stu
     - [Overview](thermo/section1.md)
     - **Classical Thermodynamics**
         - [Classical Thermodynamics for Compressible Substances](thermo/section2.md)
-    - **Quantum and Statistical Mechanics**
         - [Chemical Thermodynamics](thermo/section3.md)
+    - **Quantum and Statistical Mechanics**
         - [Quantum Theory and Wave Mechanics](thermo/section4.md)
         - [Statistical Mechanics](thermo/section5.md)
         - [Statistical Thermodynamics and Thermodynamic Properties](thermo/section6.md)

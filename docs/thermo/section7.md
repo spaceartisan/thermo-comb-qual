@@ -1,13 +1,13 @@
 # Random Motion
 
 <figure markdown="span" style="display: table; border: 2px solid rgb(68, 138, 255); padding: 5px; border-radius: 5px;">
-    ![Poopy](images\randMot.png){ width: 400px;" }
+    ![Poopy](https://raw.githubusercontent.com/spaceartisan/thermo-comb-qual/refs/heads/master/docs/thermo\images\randMot.png){ width: 400px;" }
 </figure>
 
 # Lennard-Jones Potential
 
 <figure markdown="span" style="display: table; border: 2px solid rgb(68, 138, 255); padding: 5px; border-radius: 5px;">
-    ![Poopy](images\lenjones.png){ width: 400px;" }
+    ![Poopy](https://raw.githubusercontent.com/spaceartisan/thermo-comb-qual/refs/heads/master/docs/thermo\images\lenjones.png){ width: 400px;" }
 </figure>
 
 \[

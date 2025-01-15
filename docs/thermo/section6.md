@@ -51,17 +51,17 @@ N_{i_{[FE/FD]}}^*=\frac{g_i}{e^{(\varepsilon_i-\mu)/kT}\mp 1}
 <div style="display: flex; gap: 10px;">
 
 <figure style="margin: 0; border: 2px solid rgb(68, 138, 255); padding: 5px; border-radius: 5px;">
-  <img src="..\images\Bose_Einstein_distribution.jpg" alt="Image title" width="305">
+  <img src="https://raw.githubusercontent.com/spaceartisan/thermo-comb-qual/refs/heads/master/docs/thermo\images\Bose_Einstein_distribution.jpg" alt="Image title" width="305">
   <figcaption>Bose Einstein</figcaption>
 </figure>
 
 <figure style="margin: 0; border: 2px solid rgb(68, 138, 255); padding: 5px; border-radius: 5px;">
-  <img src="..\images\FD_e_mu.svg.png" alt="Image title" width="350">
+  <img src="https://raw.githubusercontent.com/spaceartisan/thermo-comb-qual/refs/heads/master/docs/thermo\images\FD_e_mu.svg.png" alt="Image title" width="350">
   <figcaption>Fermi Dirac</figcaption>
 </figure>
 
 <figure style="margin: 0; border: 2px solid rgb(68, 138, 255); padding: 5px; border-radius: 5px;">
-  <img src="..\images\Quantum_and_classical_statistics.png" alt="Image title" width="305">
+  <img src="https://raw.githubusercontent.com/spaceartisan/thermo-comb-qual/refs/heads/master/docs/thermo\images\Quantum_and_classical_statistics.png" alt="Image title" width="305">
   <figcaption>Comparisons</figcaption>
 </figure>
 
@@ -130,7 +130,7 @@ Q_{el}=g_0+g_1e^{-\theta_{el,1}/T}+g_1e^{-\theta_{el,2}/T}+...
 \]
 
 <figure markdown="span" style="display: table; border: 2px solid rgb(68, 138, 255); padding: 5px; border-radius: 5px;">
-    ![Poopy](images\eldist.png){ width: 400px;" }
+    ![Poopy](https://raw.githubusercontent.com/spaceartisan/thermo-comb-qual/refs/heads/master/docs/thermo\images\eldist.png){ width: 400px;" }
 </figure>
 
 # Rotational Partition Function

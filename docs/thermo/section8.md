@@ -37,7 +37,7 @@ Maxwellian Speed Distribution
 \]
 
 <figure markdown="span" style="display: table; border: 2px solid rgb(68, 138, 255); padding: 5px; border-radius: 5px;">
-    ![Poopy](images\maxdistropng.png){ width: 300px;" }
+    ![Poopy](https://raw.githubusercontent.com/spaceartisan/thermo-comb-qual/refs/heads/master/docs/thermo\images\maxdistropng.png){ width: 300px;" }
 </figure>
 
 || Equation |
